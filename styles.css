@@ -1,12 +1,22 @@
 h1 {
     color: #BB86FC;
+    text-align: center;
+}
+
+h1 + p { /*if a paragraph follows a h1, it will be red*/
+    color:red;
 }
 
 li {
     list-style-type: none;
 }
 
-.special {
+li.special { /*anything of type li with class special will be specified as this*/
     color:orange;
     font-weight:bold;
 }
+
+body {
+    background-color: #121212;
+}
+
