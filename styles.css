@@ -1,0 +1,12 @@
+h1 {
+    color: #BB86FC;
+}
+
+li {
+    list-style-type: none;
+}
+
+.special {
+    color:orange;
+    font-weight:bold;
+}
