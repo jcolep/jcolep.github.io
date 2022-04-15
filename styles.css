@@ -1,5 +1,5 @@
 h1 {
-    color: #BB86FC;
+    color:#BB86FC;
     text-align: center;
 }
 
@@ -9,6 +9,14 @@ h1 + p { /*if a paragraph follows a h1, it will be red*/
 
 li {
     list-style-type: none;
+}
+
+a {
+    color:#03DAC6;
+}
+
+a:visited {
+    color:#018786
 }
 
 li.special { /*anything of type li with class special will be specified as this*/
