@@ -1,19 +1,12 @@
 /**
- * Shows menu contents when menu button is clicked
+ * Makes the top menu responsive (for mobile)
  */
-function menuButtonClicked() {
-    document.getElementById("dropdownMenu").classList.toggle("show");
-}
-
-window.onclick = function(event) {
-    if (!event.target.matches('.dropbtn')) {
-        var dropdowns = document.getElementsByClassName("dropdown-content");
-        var i;
-        for (i = 0; i < dropdowns.length; i++) {
-            var openDropdown = dropdowns[i];
-            if (openDropdown.classList.contains('show')) {
-                openDropdown.classList.remove('show');
-            }
-        }
+function makeResponsive() {
+    var x = document.getElementById("topNavMenu");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    }
+    else {
+        x.className = "topnav"
     }
 }
