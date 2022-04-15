@@ -3,7 +3,7 @@ h1 {
     text-align: center;
 }
 
-h1 + p { /*if a paragraph follows a h1, it will be red*/
+p + li { /*if a list follows a p, it will be red*/
     color:red;
 }
 
