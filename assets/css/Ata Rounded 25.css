@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Ata Rounded 25';
+	src: url(../../assets/fonts/Ata-Rounded-25-Thin.woff2) format('woff2'),
+	url(../../assets/fonts/Ata-Rounded-25-Thin.woff) format('woff');
+	font-weight: 100;
+	font-style: normal;
+	font-display: swap;
+}

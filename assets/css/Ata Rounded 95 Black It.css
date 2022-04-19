@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Ata Rounded 95 Black It';
+	src: url(../../assets/fonts/Ata-Rounded-95-Black-Italic.woff2) format('woff2'),
+	url(../../assets/fonts/Ata-Rounded-95-Black-Italic.woff) format('woff');
+	font-weight: 900;
+	font-style: italic;
+	font-display: swap;
+}

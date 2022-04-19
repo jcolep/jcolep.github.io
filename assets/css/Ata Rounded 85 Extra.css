@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Ata Rounded 85 Extra';
+	src: url(../../assets/fonts/Ata-Rounded-85-Extra-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/Ata-Rounded-85-Extra-Bold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}

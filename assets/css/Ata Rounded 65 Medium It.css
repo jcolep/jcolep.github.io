@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Ata Rounded 65 Medium It';
+	src: url(../../assets/fonts/Ata-Rounded-65-Medium-Italic.woff2) format('woff2'),
+	url(../../assets/fonts/Ata-Rounded-65-Medium-Italic.woff) format('woff');
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+}

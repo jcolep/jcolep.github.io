@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Ata Rounded 75 Bold It';
+	src: url(../../assets/fonts/Ata-Rounded-75-Bold-Italic.woff2) format('woff2'),
+	url(../../assets/fonts/Ata-Rounded-75-Bold-Italic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
