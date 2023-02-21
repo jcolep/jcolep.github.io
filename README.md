@@ -1,2 +1,2 @@
 # jcolep.github.io
-The making of my website
+This repository's purpose is to store the work that makes up my website.
